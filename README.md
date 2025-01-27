@@ -6,12 +6,12 @@ Welcome to my GitHub! I'm a **Fullstack Web Developer** from **Bohuslän, Sweden
 ## 🚀 About Me
 
 - 💻 **Tech Stack**:
-  - **Frontend**: React, React Native, TypeScript, Emotion, Tailwind CSS, Motion
-  - **Backend**: Node.js, Express
-  - **State Management**: Redux, Zustand, TanStack Query
-  - **Tools**: Firebase, Git, Figma, LLM-based tools like OpenAI and GitHub Copilot.
+  - **Frontend**: React, React Native, TypeScript, TanStack Query, Emotion, Tailwind CSS, Motion
+  - **Backend**: Node.js, Express, Firebase
+  - **State Management**: Redux, Zustand 
+  - **Tools**: Git, Figma, LLM-based tools like OpenAI and GitHub Copilot.
 
-🎨 **Design Philosophy**: Clean, modern interfaces with a focus on usability and performance.
+- 🎨 **Design Philosophy**: Clean, modern interfaces with a focus on usability and performance.
 
 
 ## 🌱 What I'm Working On
@@ -29,5 +29,4 @@ Welcome to my GitHub! I'm a **Fullstack Web Developer** from **Bohuslän, Sweden
 ## 🎯 Fun Facts
 
 - I prefer light mode over dark mode 🌞
-- Just got into chess, this year I want to reach 1200 elo! ♟️
 - Spend a little too much $ on Magic: The Gathering cards.
